@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "I:\\GIT\\AULA1\\PROJETO TESTE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|i:\\git\\aula1\\projeto teste\\projeto teste\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|solutionrelative:projeto teste\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|i:\\git\\aula1\\projeto teste\\projeto teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|solutionrelative:projeto teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|i:\\git\\aula1\\projeto teste\\projeto teste\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2AEF5211-9F4A-41EE-93F1-740111B9CD8F}|PROJETO TESTE\\PROJETO TESTE.csproj|solutionrelative:projeto teste\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "I:\\GIT\\AULA1\\PROJETO TESTE\\PROJETO TESTE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PROJETO TESTE\\Form1.Designer.cs",
+              "ToolTip": "I:\\GIT\\AULA1\\PROJETO TESTE\\PROJETO TESTE\\Form1.Designer.cs",
+              "RelativeToolTip": "PROJETO TESTE\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:50:35.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "I:\\GIT\\AULA1\\PROJETO TESTE\\PROJETO TESTE\\Form1.resx",
+              "RelativeDocumentMoniker": "PROJETO TESTE\\Form1.resx",
+              "ToolTip": "I:\\GIT\\AULA1\\PROJETO TESTE\\PROJETO TESTE\\Form1.resx",
+              "RelativeToolTip": "PROJETO TESTE\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-07T18:50:16.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "I:\\GIT\\AULA1\\PROJETO TESTE\\PROJETO TESTE\\Form1.cs",
               "RelativeDocumentMoniker": "PROJETO TESTE\\Form1.cs",
