@@ -21,5 +21,10 @@ namespace PROJETO_TESTE
         {
             MessageBox.Show("teste");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("teste2");
+        }
     }
 }
